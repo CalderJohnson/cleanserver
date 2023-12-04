@@ -3,3 +3,5 @@ Cleanserver is a discord bot employing a finetuned BERT, conducting sentiment an
 **WIP**
 
 Invite link: https://discord.com/oauth2/authorize?client_id=1171815995854311527&scope=bot&permissions=8
+
+Dataset used: https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data
